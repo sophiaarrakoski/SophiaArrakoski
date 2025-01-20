@@ -1,5 +1,5 @@
 ---
-: Sophia Arrakoski
+title : Sophia Arrakoski
 ---
 I'm studying game development at Metropolia University of Applied Science
 
