@@ -6,6 +6,6 @@ I'm an IT student, studying game development at Metropolia University of Applied
 [Pastel Run](https://sophiaarwen.itch.io/pastel-run)
 
 ### Skills:
-- Unity (&C#)
+- Unity (C#)
 - C++
 - Python
